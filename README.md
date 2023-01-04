@@ -5,7 +5,7 @@ If so, this is exactly for you!
 ## How to use
 
 - Download this folder
-- Run main.py when you start your work  
+- Run `main.py` when you start your work  
 ** This program uses `winsound` to make beeping sound, so you can't run this on Mac obviously.
 - I highly recommend using `pyinstaller` to create a standalone exe file.
 
