@@ -19,5 +19,5 @@ lunch_begin = '12:00'
 lunch_end = '13:00'
 ```
 - In `timer.py`, `class Timer` has time schedule properties.  
-You can modify lunch break time and workhours per day however you like.  
+You can modify lunch break time and workhours(includes lunch break time) per day however you like.  
 ** make sure you put string as properties. Otherwise this program won't work.
